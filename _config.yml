@@ -1,0 +1,5 @@
+theme: minima
+minima:
+  skin: dark
+title: my_page
+author: Emiliano Peña Ayala

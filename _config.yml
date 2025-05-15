@@ -1,7 +1,28 @@
 title: Emiliano Peña Ayala
-author: Emiliano Peña Ayala
-theme: minima
+author: 
+  name: Emiliano Peña Ayala
+  email: firstname.pena at math.uu.se
 
+url: "https://emipea.gitlab.io"
+baseurl: "/"
+timezone: Europe/Stockholm
+lang: en_UK
+
+exclude: []
+
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+remote_theme: jekyll/minima
 minima:
   skin: dark
+  date_format: "%d-%m-%Y - %H:%M"
 
+header_pages:
+  - index.md
+  - research.md
+  - teaching.md
+  - other.md

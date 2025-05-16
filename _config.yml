@@ -19,7 +19,7 @@ plugins:
 remote_theme: jekyll/minima
 minima:
   skin: dark
-  avatar: '/assets/profile.png'
+  avatar: 'assets/profile.png'
   date_format: "%d-%m-%Y - %H:%M"
 
 header_pages:

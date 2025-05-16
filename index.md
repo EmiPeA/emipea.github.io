@@ -4,11 +4,13 @@ title: Home
 permalink: /
 ---
 
-<div class="profile-container" style="text-align: left; margin: 2rem 0;">
-  <img src="/assets/profile.png" 
-       alt="Emiliano Peña Ayala" 
-       class="profile-image"
-       style="width: 300px; border-radius: 50%;">
+<div class="content-wrapper">
+  <div class="profile-container">
+    <img src="/assets/profile.png" 
+         alt="Emiliano Peña Ayala" 
+         class="profile-image">
+  </div>
+  ## Your Markdown content...
 </div>
 
 Main page content.

@@ -6,8 +6,9 @@
 
 .avatar {
   float: left;
-  width: 250px;
-  height: 250px;
+  width: 250px !important;
+  height: 250px !important;
+  max-width: 100% !important;
   border-radius: 50%;
   margin-right: 15px;
   margin-bottom: 5px;
@@ -16,7 +17,7 @@
 }
 
 .avatar-container {
-  max-width: 150px;     /* Prevent container expansion */
+  width: 250px !important;     /* Prevent container expansion */
   margin: 1rem 0 2rem 0;  // Top Right Bottom Left
   overflow: hidden;       // Contain floated image
 }

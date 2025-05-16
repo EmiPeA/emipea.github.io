@@ -8,7 +8,6 @@ permalink: /
   <img src="/assets/profile.png" 
        alt="Emiliano Peña Ayala" 
        class="profile-image"
-       style="width: 150px; border-radius: 50%;">
 </div>
 
 Main page content.

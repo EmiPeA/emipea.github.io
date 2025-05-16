@@ -9,7 +9,7 @@ permalink: /
     <img src="/assets/profile.png" 
        alt="Emiliano Peña Ayala" 
        class="avatar"
-       style="width: 300px; border-radius: 50%;">
+       style="width: 2500px; border-radius: 50%;">
   </div>
 </div>
 

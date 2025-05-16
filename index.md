@@ -5,10 +5,10 @@ permalink: /
 ---
 
 <div class="content-wrapper">
-  <div class="profile-container">
+  <div class="avatar-container">
     <img src="/assets/profile.png" 
          alt="Emiliano Peña Ayala" 
-         class="profile-image">
+         class="avatar">
   </div>
 </div>
 

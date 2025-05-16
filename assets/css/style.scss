@@ -6,24 +6,30 @@
 
 .avatar {
   float: left;
-  width: 300px;
-  height: 300px;
+  width: 250px;
+  height: 250px;
   border-radius: 50%;
   margin-right: 15px;
   margin-bottom: 5px;
   object-fit: cover;
+  shape-outside: circle(); /* Better text wrapping */
 }
 
 .avatar-container {
+  max-width: 150px;     /* Prevent container expansion */
   margin: 1rem 0 2rem 0;  // Top Right Bottom Left
   overflow: hidden;       // Contain floated image
 }
 
 /* Mobile responsiveness */
 @media (max-width: 800px) {
-  .profile-image {
+  .avatar {             /* Fixed: Now targets same class */
     float: none;
-    width: 200px;          /* Smaller on mobile */
-    margin: 0 auto 1rem;   /* Centered stack */
+    width: 120px;       /* Smaller on mobile */
+    margin: 0 auto 1rem; 
+  }
+  .avatar-container {
+    max-width: 100%;
+    margin: 1rem auto;  /* Center on mobile */
   }
 }

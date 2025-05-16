@@ -10,7 +10,6 @@ permalink: /
          alt="Emiliano Peña Ayala" 
          class="profile-image">
   </div>
-  ## Your Markdown content...
 </div>
 
 Main page content.

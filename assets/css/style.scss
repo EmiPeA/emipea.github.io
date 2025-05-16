@@ -11,3 +11,9 @@
   margin: 1rem 0 2rem 0;  // Top Right Bottom Left
   overflow: hidden;       // Contain floated image
 }
+
+/* Text wrapping around floated image */
+.content-wrapper {
+  display: flow-root; /* Modern clearfix */
+  margin-top: 1rem;  /* Optional spacing */
+}

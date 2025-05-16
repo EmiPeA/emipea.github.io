@@ -8,5 +8,6 @@
 }
 
 .avatar-container {
-  display: inline-block;
+  margin: 1rem 0 2rem 0;  // Top Right Bottom Left
+  overflow: hidden;       // Contain floated image
 }

@@ -4,10 +4,11 @@ title: Home
 permalink: /
 ---
 
-<div class="profile-container" style="text-align: center; margin: 2rem 0;">
-  <img src="/assets/profile.png" 
+<div class="profile-container" style="text-align: left; margin: 2rem 0;">
+  <img src="/assets/file.png" 
        alt="Emiliano Peña Ayala" 
        class="profile-image"
+       style="width: 150px; border-radius: 50%;">
 </div>
 
 Main page content.

@@ -5,11 +5,13 @@ permalink: /
 ---
 
 <div class="content-wrapper">
-  <div class="avatar-container">
+  <div class="avatar-container" style="text-align: left; margin: 2rem 0;">
     <img src="/assets/profile.png" 
-         alt="Emiliano Peña Ayala" 
-         class="avatar">
+       alt="Emiliano Peña Ayala" 
+       class="avatar"
+       style="width: 300px; border-radius: 50%;">
   </div>
 </div>
+
 
 Main page content.

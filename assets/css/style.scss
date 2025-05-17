@@ -3,6 +3,12 @@
 @import "minima/skins/dark"; // This explicitly loads the dark theme
 @import "minima/initialize"; // Then loads the rest of minima
 /* Text wrapping around floated image */
+.wrapper {
+  max-width: 1200px;  // Wider page
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
 .content-wrapper {
   display: flow-root; /* Modern clearfix */
   margin-top: 1rem;  /* Optional spacing */

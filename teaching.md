@@ -6,7 +6,9 @@ permalink: /teaching/
 
 <div class="teaching-section">
   <div class="teaching-image-wrapper">
-    <img src="/assets/teaching-image-1.jpg" alt="Teaching Example 1" class="teaching-image">
+    <img src="{{ '/assets/teaching-image-1.jpg' | relative_url }}" 
+     alt="Uppsala"
+     class="teaching-image">
   </div>
   <div class="teaching-content">
     <h2>At Uppsala Universitet</h2>

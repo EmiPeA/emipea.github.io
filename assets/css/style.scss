@@ -35,7 +35,9 @@
 @media (max-width: 800px) {
   .avatar {             /* Fixed: Now targets same class */
     float: none;
-    width: 120px;       /* Smaller on mobile */
+    width: 150px; 
+    height: 150;
+    display: block;
     margin: 0 auto 1rem; 
   }
   .avatar-container {
@@ -70,7 +72,7 @@
 }
 
 /* Mobile responsiveness */
-@media (max-width: 768px) {
+@media (max-width: 800px) {
   .teaching-image-wrapper {
     float: none;
     width: 100%;

@@ -18,7 +18,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
-theme: minima
+remote_theme: jekyll/minima
 minima:
   skin: dark
   avatar: 'assets/profile.jpg'

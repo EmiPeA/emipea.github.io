@@ -1,6 +1,7 @@
 ---
 ---
-@import "minima";
+@import "minima/skins/dark"; // This explicitly loads the dark theme
+@import "minima/initialize"; // Then loads the rest of minima
 /* Text wrapping around floated image */
 .content-wrapper {
   display: flow-root; /* Modern clearfix */

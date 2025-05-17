@@ -25,10 +25,14 @@ permalink: /teaching/
   <div class="teaching-content">
     <h2>At Facultad de Ciencias, UNAM</h2>
     <p>As teaching assistant:</p>
-    <ol>
-      <li>Seminario de Matemáticas Aplicadas I</li>
-      <li>Análisis II - </li>
-      <li>Geometría Moderna II - </li>
-    </ol>
+    <ul>
+      <li>Análisis II - 2022-2</li>
+      <li>Cálculo Diferencial e Integral IV - 2024-2</li>
+      <li>Cálculo Diferencial e Integral III - 2024-1</li>
+      <li>Geometría Moderna II - 2023-2, 2022-2</li>
+      <li>Geometría Moderna I - 2023-1</li>
+      <li>Seminario de Matemáticas Aplicadas II - 2023-2</li>
+      <li>Seminario de Matemáticas Aplicadas I - 2023-1</li>
+    </ul>
   </div>
 </div>

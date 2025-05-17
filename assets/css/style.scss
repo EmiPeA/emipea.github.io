@@ -40,7 +40,6 @@
   display: flow-root; /* Modern clearfix */
   margin: 3rem 0;
   padding: 1.5rem;
-  background: rgba(245, 245, 245, 0.5);
   border-radius: 8px;
 }
 
@@ -48,7 +47,6 @@
   float: left;
   width: 250px;
   margin: 0 1.5rem 1rem 0;
-  shape-outside: circle();
 }
 
 .teaching-image {
@@ -56,7 +54,6 @@
   border-radius: 8px;
   object-fit: cover;
   aspect-ratio: 1 / 1;
-  box-shadow: 0 3px 10px rgba(0,0,0,0.1);
 }
 
 .teaching-content {

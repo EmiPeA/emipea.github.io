@@ -22,7 +22,7 @@ permalink: /teaching/
 
 <div class="teaching-section">
   <div class="teaching-image-wrapper">
-    <img src="/assets/teaching-image-2.jpg" alt="Teaching Example 2" class="teaching-image">
+    <img src="/assets/teaching-image-2.jpg" alt="ciencias" class="teaching-image">
   </div>
   <div class="teaching-content">
     <h2>At Facultad de Ciencias, UNAM</h2>

@@ -8,6 +8,8 @@ baseurl: "/"
 timezone: Europe/Stockholm
 lang: en_UK
 
+include:
+  - assets
 exclude: []
 
 plugins:

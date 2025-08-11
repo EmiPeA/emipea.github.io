@@ -6,7 +6,7 @@ permalink: /
 
 <div class="content-wrapper">
   <div class="avatar-container" style="text-align: left; margin: 2rem 0;">
-    <img src="/assets/profile.png" 
+    <img src="/assets/profile.jpeg" 
        alt="Emiliano Peña Ayala" 
        class="avatar">
   </div>

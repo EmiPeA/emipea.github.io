@@ -15,7 +15,7 @@ permalink: /teaching/
     <p>As teaching assistant:</p>
     <ul>
       <li>Flervariabelanalys - Höst 2025, Höst 2024 (Multivariable Calculus - Autumn 2025, Autumn 2024),</li>
-      <li>Matematik för biologer - Vår 2026, Vår 2025 (Math for biologists - Spring 2025).</li>
+      <li>Matematik för biologer - Vår 2026, Vår 2025 (Math for biologists - Spring 2026, Spring 2025).</li>
     </ul>
   </div>
 </div>

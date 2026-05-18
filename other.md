@@ -8,6 +8,7 @@ permalink: /other_stuff/
   <div class="research-content">
     <h2>Talks and poster presentations</h2>
     <ul>
+      <li>Talk "Symmetric drums (should) produce deeper bass notes" at the <a href="https://www.uu.se/en/department/mathematics/study/phd-studies/phd-seminars/previous-phd-seminars" target="_blank" rel="noopener noreferrer" class="text-link">Math PhD seminar</a>, Uppsala University, May 20th 2026, Uppsala, Sweden.</li>
       <li>Talk "Existence and uniqueness for doubly-nonlinear anisotropic evolution equations" at the <a href="https://www.uu.se/en/department/mathematics/research/analysis-and-partial-differential-equations/seminar-series-in-pdes-and-applications" target="_blank" rel="noopener noreferrer" class="text-link">PDEs and Applications seminar</a>, Uppsala University, Apr 21st 2026, Uppsala, Sweden.</li>
       <li>Poster presentation of "Existence, comparison principle and uniqueness for fully nonlinear anisotropic equations" at WASP's Winter Conference 2026, Jan 14th 2026, Örebro, Sweden.</li>
     </ul>

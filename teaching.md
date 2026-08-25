@@ -14,7 +14,8 @@ permalink: /teaching/
     <h2>At Uppsala Universitet</h2>
     <p>As teaching assistant:</p>
     <ul>
-      <li>Flervariabelanalys - Höst 2025, Höst 2024 (Multivariable Calculus - Autumn 2025, Autumn 2024),</li>
+      <li>Flervariabelanalys - Höst 2026, höst 2025, höst 2024 (Multivariable Calculus - Autumn 2026, 2025, 2024),</li>
+      <li>Linjär algebra för dataanalys - Höst 2026 (Linear algebra for data analysis - Autumn 2026),</li>
       <li>Matematik för biologer - Vår 2026, Vår 2025 (Math for biologists - Spring 2026, Spring 2025).</li>
     </ul>
   </div>
